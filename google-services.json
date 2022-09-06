@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957235190942",
+    "project_id": "acksense-20591",
+    "storage_bucket": "acksense-20591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957235190942:android:97e12029231e9812c0af8f",
+        "android_client_info": {
+          "package_name": "app.acksense.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957235190942-ei9is8qgfr682fmlv44e1n7vunq8v7dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARk8Tg0lgxorx0eJ1nshkWvn5caIJ5rjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957235190942-ei9is8qgfr682fmlv44e1n7vunq8v7dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
